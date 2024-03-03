@@ -1,0 +1,74 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.out
+
+# Executables
+*.exe
+*.out
+
+# C++ specific
+*.cpp~
+*.hpp~
+*.h~
+*.h.gch
+
+# Dependency Directories
+bin/
+build/
+lib/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Compiled Java files
+*.class
+
+# Compiled Ruby files
+*.rbc
+
+# Compiled Lua files
+*.luac
+
+# Compiled JavaScript files
+*.js
+*.jsx
+*.json
+
+# Compiled TypeScript files
+*.ts
+*.tsx
+
+# Compiled Objective-C files
+*.o
+*.m
+*.swift
+
+# Compiled Java Bytecode
+*.class
+
+# Compiled PHP files
+*.php
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux specific
+*~
+
+# Editor-specific
+.vscode/
+.idea/
+
+# Custom Ignore
+ignore-me.txt
+
